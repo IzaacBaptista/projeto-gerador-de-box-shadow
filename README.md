@@ -5,3 +5,5 @@
 - Utilizando #HTML, CSS e #JavaScript, 
 - Projeto utilitário que você poderá utilizar para criar uma box shadow com um auxílio gráfico
 - Permitindo ver a regra gerada de forma simples
+
+- Disponivel em: https://izaacbaptista.github.io/projeto-gerador-de-box-shadow/
